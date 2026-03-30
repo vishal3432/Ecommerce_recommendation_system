@@ -10,7 +10,7 @@ SQLAlchemy==2.0.23
 
 # Authentication
 djangorestframework-simplejwt==5.3.1
-PyJWT==2.8.1
+PyJWT==2.8.0
 
 # WebSockets
 channels==4.0.0
